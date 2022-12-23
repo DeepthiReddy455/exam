@@ -1,0 +1,26 @@
+#chea{
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+width: 500px;
+}
+#h1{
+    color: #ffffff;
+}
+#btn{
+    float:right;
+    background-color:#ffffff;
+    border:#ffffff;
+    color: orange;
+    margin-top: 8px;
+}
+#p1{
+    color: #ffffff;
+}
+#h2{
+    color: #ffffff;
+}
+#con2{
+    margin-left: 0px;
+}
+#i1,#i2,#i3{
+    padding-right: 30px;
+}
